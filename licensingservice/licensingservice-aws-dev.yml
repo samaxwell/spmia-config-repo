@@ -8,6 +8,6 @@ spring.datasource.password: "{cipher}46c75c21d4f2ddae677fd85e9a62e0b555a0ab4aa82
 spring.datasource.testWhileIdle: "true"
 spring.datasource.validationQuery: "SELECT 1"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
-redis.server: "spmia-tmx-redis-dev.lxxnq4.0001.usw1.cache.amazonaws.com"
+redis.server: "spmia-tmx-redis-dev.jkv83p.0001.use1.cache.amazonaws.com"
 redis.port: "6379"
 signing.key: "345345fsdfsf5345"
